@@ -2,15 +2,16 @@
 
 ## Initial Dev Enviroment Set Up
 1. [Install Visual Studio Code](https://code.visualstudio.com/Download)
+    - make sure you get the right version for your machine (32 v 64)
+        ![download vs code](https://github.com/kevinatown/nupaths1/blob/main/resources/vs_code_download.png?raw=true)
 2. [Install Node.js](https://nodejs.org/en/download/)
     - Pick the LTS (node-v14.x.x)
-        ![download vs code](https://github.com/kevinatown/nupaths1/blob/main/resources/vs_code_download.png?raw=true)
+    - make sure you get the right version for your machine (32 v 64)
+        ![download node.js](https://github.com/kevinatown/nupaths1/blob/main/resources/node_js_download.png?raw=true)
 
 ## Project Enviroment Set Up
 1. [Download This Repository](https://github.com/kevinatown/nupaths1)
     - Click on the breen "Code" button
-        - make sure you get the right version for your machine (32 v 64)
-        ![download node.js](https://github.com/kevinatown/nupaths1/blob/main/resources/node_js_download.png?raw=true)
     - Click on 'Download zip'
         ![download zip image](https://github.com/kevinatown/nupaths1/blob/main/resources/github_zip_download.png?raw=true)
     - Unzip the zipped directory
