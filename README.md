@@ -20,17 +20,16 @@
 3. Click on File in the top left
 4. Click on open
 5. Navigate to and open the directory downloaded in step 1.
-6. Open the intergrated VS Code terminal 
-    - Use the short keys: `⌃\`` OR
+6. Open the intergrated VS Code terminal
     - View > Terminal
     - The terminal will open at the bottom
     ![terminal overview](https://github.com/kevinatown/nupaths1/blob/main/resources/terminal.png?raw=true)
     (**NOTE:** Your terminal will look different and may have a longer path
-        e.g. 
+        e.g.)
         ```cmd
             C:\Users\<USER_NAME>\<PATH>\<TO>\project
         ```
-    )
+
 7. Installing the devlopment dependencies
     - Click in the terminal then write or type the following:
     ```cmd
