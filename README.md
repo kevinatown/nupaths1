@@ -59,12 +59,24 @@
     - OR Click on the trash can icon
     (**NOTE:** If you click on the trash can icon you'll have to reopen another terminal [see step 6 in Project Enviroment Setup](#Project Enviroment Set Up)) 
 
+## Other Tools
+- [Slack](https://slack.com/downloads)
+    - Slack is a multiplatform IM service that allows for sending files, code, images, etc
+    - I'll create a slack group for us and send out invites this week.
+    - It's a great way to communicate asynconously!
+    - Also it's built using JS, CSS, and HTML!!
+- [GitHub](https://github.com/)
+    - GitHub is one of many remote `git` repositories
+    - `git` is currently the most widely used versioning tool for developers/engineers
+    - We may not use `git` in this class but I will share a lot on it
+    - I do recommend getting an account as it's something that you can use to show off you code!
 
-
-
-
-
-
+## Useful Links
+- (w3Schools)[https://www.w3schools.com/]
+- (w3Schools HTML Tag Reference)[https://www.w3schools.com/tags/default.asp]
+- (w3Schools HTML CSS Reference)[https://www.w3schools.com/css/default.asp]
+- (MDN)[https://developer.mozilla.org/en-US/]
+- (StackOverflow)[https://stackoverflow.com/] (**NOTE:** Best way to use stackoverflow is to just google the question and look for the stackoverflow answer -- you might have to improve your googling!)
 
 
 
